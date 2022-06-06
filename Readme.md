@@ -1,4 +1,4 @@
-[## Smart Lead Scoring Engine (JOB-A-THON - June 2022)](https://datahack.analyticsvidhya.com/contest/job-a-thon-june-2022/s)
+##[Smart Lead Scoring Engine (JOB-A-THON - June 2022)](https://datahack.analyticsvidhya.com/contest/job-a-thon-june-2022/s)
 
 Can you identify the potential leads for a D2C startup?
 
